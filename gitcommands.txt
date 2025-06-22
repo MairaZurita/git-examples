@@ -1,0 +1,1 @@
+$ git clone <url>: Clone an entire repository from hosted location into a new directory via URL
