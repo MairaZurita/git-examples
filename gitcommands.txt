@@ -1,0 +1,5 @@
+$ git clone <url>: Clone an entire repository from hosted location into a new directory via URL
+
+$ git push: Upload local repository content to a remote repository, pushing is how you transfer commits from your local  repository to a remote repository
+
+$ git merge: Combine the changes from two different branches into one
